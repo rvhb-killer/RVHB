@@ -56,7 +56,7 @@ header.scrolled .btn-ghost:hover{background:var(--ink);color:var(--cream)}
 
 /* ===== HERO ===== */
 .hero{position:relative;min-height:100svh;display:flex;flex-direction:column;align-items:center;justify-content:flex-start;
-  text-align:center;background-image:linear-gradient(180deg,rgba(20,16,12,.4) 0%,rgba(20,16,12,.06) 26%,rgba(20,16,12,0) 52%,rgba(244,237,227,.35) 100%),url('YOUR_HERO_IMAGE_URL_OR_BASE64_HERE');
+  text-align:center;background-image:linear-gradient(180deg,rgba(20,16,12,.4) 0%,rgba(20,16,12,.06) 26%,rgba(20,16,12,0) 52%,rgba(244,237,227,.35) 100%),url('Webs.jpg');
   background-size:cover;background-position:center 46%}
 .hero-inner{position:relative;z-index:2;margin-top:clamp(88px,12vh,150px);padding:0 24px;transform:translateY(18px);opacity:1;
   animation:rise 1s var(--ease) .15s forwards}
